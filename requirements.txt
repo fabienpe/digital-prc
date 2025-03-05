@@ -1,0 +1,8 @@
+base45
+cryptography
+jwt
+matplotlib
+pillow
+pyzbar
+qrcode[pil]
+zlib
