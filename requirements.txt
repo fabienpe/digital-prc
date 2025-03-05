@@ -4,5 +4,6 @@ jwt
 matplotlib
 pillow
 pyzbar
+reportlab
 qrcode[pil]
 zlib
