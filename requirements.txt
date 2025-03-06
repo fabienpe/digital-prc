@@ -6,4 +6,3 @@ pyjwt
 pyzbar
 reportlab
 qrcode[pil]
-zlib
